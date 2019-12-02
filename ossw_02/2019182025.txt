@@ -1,1 +1,1 @@
-https://github.com/why3E/ossw2.git
+ https://github.com/why3E/ossw2.git
